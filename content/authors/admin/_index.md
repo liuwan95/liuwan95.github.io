@@ -79,4 +79,4 @@ highlight_name: true
 Liuwan Zhu is a PhD candidate of Electrical and Computer Engineering at Old Dominion University. Her research interests include Machine Learning, Computer Vision, Vision-Language Multi-Modal Learning and Cybersecurity, mainly focusing on the robustness and security of the AI systems, such as adversarial attack and backdoor attack.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_LiuwanZhu.pdf" "newtab" >}}resumé{{< /staticref >}}.
