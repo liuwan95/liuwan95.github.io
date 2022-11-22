@@ -23,6 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Graduate Research Assistant
+    company: Old Dominion University Research Foundation
     date_start: 'Sept. 2018'
     date_end: ''
     description: Actively conducted various research projects related to security, deep learning in Computer Vision(CV), and Vision-Language Multi-Modal funded by National Science Foundation(NSF).
@@ -48,6 +49,7 @@ experience:
     * Created lessons and hands-on labs covering High-Performance Computing(HPC) system usage and analyzing the spam emails on the IP address with PySpark; using Pandas to process mobile phone system data and further building a Machine learning model(Logistic Regression, Decision Tree) and Deep Learning model(CNNs) to identify mobile applications by analyzing resource usage statistics. 
    
   - title: Teaching Assistant
+    company: Old Dominion University 
     date_start: 'Jan 2018'
     date_end: 'May 2018'
     description: As the TA for course ECE355: Introduction to Networks and Data Communications
