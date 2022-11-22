@@ -22,7 +22,7 @@ design:
   columns: '2'
 ---
 
-#Add any content to the body of the section here.
+# Add any content to the body of the section here.
 
 **L. Zhu**, R. Ning, J. Li, C. Xin, and H. Wu, "Most and Least Retrievable Images in Visual-Language Query Systems", in Proceedings of the European Conference on Computer Vision (ECCV), 2022. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-19836-6_1)
 
