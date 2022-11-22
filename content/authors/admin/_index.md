@@ -77,7 +77,7 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. candidate in the department of Electrical and Computer Engineering at Old Dominion University, advised by [Dr.Hongyi Wu](http://www.u.arizona.edu/~mhwu/). My research interests include Machine Learning, Computer Vision, Vision-Language Multi-Modal Learning and Cybersecurity, mainly focusing on the robustness and security of the AI systems, such as adversarial attack and backdoor attack.
+I am a Ph.D. candidate in the department of Electrical and Computer Engineering at Old Dominion University, advised by [Dr. Hongyi Wu](http://www.u.arizona.edu/~mhwu/). My research interests include Machine Learning, Computer Vision, Vision-Language Multi-Modal Learning and Cybersecurity, mainly focusing on the robustness and security of the AI systems, such as adversarial attack and backdoor attack.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_LiuwanZhu.pdf" "newtab" >}}resumé{{< /staticref >}}.
