@@ -44,7 +44,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    # link: '/#contact'
+    link: 'mailto:liuwanz601@gmail.com'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=oGVnMOcAAAAJ&hl=en
@@ -70,7 +71,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'liuwanz601@gmail.com'
+# email: 'liuwanz601@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
