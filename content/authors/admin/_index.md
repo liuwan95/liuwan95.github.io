@@ -32,10 +32,10 @@ education:
   courses:
     - course: PhD in Electrical and Computer Engineering
       institution: Old Dominion University
-      year: 2017-Now
+      year: 2017 - Present
     - course: BSc in Computer Science
       institution: Hunan University
-      year: 2013-2017
+      year: 2013 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,7 +70,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'liuwanz601@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
