@@ -22,8 +22,6 @@ design:
   columns: '2'
 ---
 
-# Add any content to the body of the section here.
-
 **L. Zhu**, R. Ning, J. Li, C. Xin, and H. Wu, "Most and Least Retrievable Images in Visual-Language Query Systems", in Proceedings of the European Conference on Computer Vision (ECCV), 2022. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-19836-6_1)
 
 **L. Zhu**, R. Ning, C. Xin, and H. Wu, "CLEAR: Clean-up Trigger-Free Backdoor in Neural Networks", in Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2021. [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_CLEAR_Clean-Up_Sample-Targeted_Backdoor_in_Neural_Networks_ICCV_2021_paper.pdf)
