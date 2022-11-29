@@ -26,6 +26,7 @@ interests:
   - Computer Vision
   - Vision-Language Multi-Modal Learning
   - Cybersecurity
+  - Data Science
 
 # Education to show in About widget
 education:
