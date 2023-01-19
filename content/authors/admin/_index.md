@@ -22,10 +22,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
-  - Computer Vision
+  - Machine Learning for Cybersecurity
+  - Robustness and Security of Machine learning
   - Vision-Language Multi-Modal Learning
-  - Cybersecurity
   - Data Science
 
 # Education to show in About widget
