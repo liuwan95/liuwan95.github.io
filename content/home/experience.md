@@ -36,8 +36,8 @@ experience:
     company_url: 'https://github.com/Cestlaviez/GenCyber.git'
     # company_logo: org-gc
     # location: California
-    date_start: '2019'
-    date_end: '2022'
+    date_start: '2019-07-01'
+    date_end: '2022-08-01'
     description: |2-    
         * GenCyber is an NSA & NSF-funded program that provides Cybersecurity and AI training for K-12 students and teachers.
         * My responsibility: Led instructors to create lesson plans and hands-on labs integrating cybersecurity and deep learning for beginners. More specifically, build an attendance system with the face recognition model and launch attacks on the model that demonstrates the security issues in the popular AI models.
@@ -48,8 +48,8 @@ experience:
     company_url: 'https://deapsecure.gitlab.io'
     # company_logo: org-gc
     # location: California
-    date_start: '2019'
-    date_end: '2021'
+    date_start: '2019-05-01'
+    date_end: '2021-08-31'
     description: |2-    
         * DeapSECURE Workshop Series is an NSF-funded project that provides HPC and Cybersecurity training for graduate students and researchers at Old Dominion University.
         * My responsibility: Created lessons and hands-on labs covering High-Performance Computing(HPC) system usage and analyzing the spam emails on the IP address with PySpark; using Pandas to process mobile phone system data and further building a Machine learning model(Logistic Regression, Decision Tree, CNNs) to identify mobile applications by analyzing resource usage statistics. 
