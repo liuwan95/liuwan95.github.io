@@ -10,11 +10,11 @@ last_name: Zhu
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Old Dominion University
+  - name: University of Hawaii at Manoa
     #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,17 +22,17 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Machine Learning for Cybersecurity
-  - Robustness and Security of Machine learning
+  - Machine Learning/Deep Learning for Cybersecurity
+  - Robustness and Security of AI model
   - Vision-Language Multi-Modal Learning
-  - Data Science
+
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Electrical and Computer Engineering
       institution: Old Dominion University
-      year: 2017 - Present
+      year: 2017 - 2023
     - course: BSc in Computer Science
       institution: Hunan University
       year: 2013 - 2017
@@ -45,7 +45,7 @@ social:
   - icon: envelope
     icon_pack: fas
     # link: '/#contact'
-    link: 'mailto:liuwanz601@gmail.com'
+    link: 'mailto:liuwan@hawaii.edu'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=oGVnMOcAAAAJ&hl=en
@@ -76,8 +76,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am a Ph.D. candidate in the department of Electrical and Computer Engineering at Old Dominion University, advised by [Dr. Hongyi Wu](http://www.u.arizona.edu/~mhwu/). My research interests include Machine Learning, Computer Vision, Vision-Language Multi-Modal Learning and Cybersecurity, mainly focusing on the robustness and security of the AI systems, such as adversarial attack and backdoor attack.
+I am an assistant professor in Electrical & Computer Engineering at the University of Hawaiʻi at Mānoa. I received my Ph.D. in Electrical & Computer Engineering from Old Dominion University, US, in 2023, advised by [Dr. Hongyi Wu](http://www.u.arizona.edu/~mhwu/), and B.S. degree in Computer Science from Hunan University, China, in 2017. My research interests include Computer Vision, Vision-Language Multi-Modal Learning and Cybersecurity, mainly focusing on the robustness and safety of the AI systems, such as adversarial attack and backdoor attack.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_LiuwanZhu.pdf" "newtab" >}}resumé{{< /staticref >}}.
