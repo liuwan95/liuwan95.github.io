@@ -23,6 +23,11 @@ design:
   columns: '2'
 ---
 
-- As a Reviewer: IEEE Transaction of Mobile Computing(TMC); Pervasive and Mobile Computing Journal (PMC); IEEE CVPR 2023; ACM MultiMedia 2023
+As a Reviewer:
+- IEEE Transaction of Mobile Computing(TMC);
+- Pervasive and Mobile Computing Journal (PMC);
+- IEEE/CVF CVPR 2023;
+- ACM MultiMedia 2023
+- IEEE ICNC 2024
 
-- Faculty Mentor: NSF REU sites at School of Cybersecurity, ODU, 2023
+Faculty Mentor: NSF REU sites at School of Cybersecurity, ODU, 2023
