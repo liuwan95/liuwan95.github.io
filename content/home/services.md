@@ -3,12 +3,12 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
 
-active: false
+active: true
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
 # Section title
 title: Services
@@ -23,4 +23,6 @@ design:
   columns: '2'
 ---
 
-- As a Reviewer: INFOCOM, IEEE TMC
+- As a Reviewer: IEEE Transaction of Mobile Computing(TMC); Pervasive and Mobile Computing Journal (PMC); IEEE CVPR 2023; ACM MultiMedia 2023
+
+- Faculty Mentor: NSF REU sites at School of Cybersecurity, ODU, 2023
