@@ -22,12 +22,14 @@ design:
   columns: '2'
 ---
 
-EE/ICS660. Computer Architecture (Instructor)  [Spring 2023]
+**EE/ICS660. Computer Architecture** [Instructor]  (Fall 2023)
 
-DeapSECURE Workshop Series(Funded by NSF CyberTraining) (Instructor) [2019-2021]
+**GenCyber Summer Camp(Funded by NSA)** [Instructor] (Summer 2019-2022)
 
-CYSE635. AI Security and Privacy (Guest Lecturer) [Fall 2021]
+**[DeapSECURE Workshop Series](https://deapsecure.gitlab.io)(Funded by NSF CyberTraining)** [Instructor] (2019-2021)
 
-CYSE301. Cybersecurity Techniques and Operations (Student Mentor) [Spring 2023]
+**CYSE635. AI Security and Privacy** [Guest Lecturer] (Fall 2021)
 
-ECE355. Introduction to Networks and Data Communications (Teaching Assistant) [Fall 2018]
+**CYSE301. Cybersecurity Techniques and Operations** [Student Mentor] (Spring 2023)
+
+**ECE355. Introduction to Networks and Data Communications** [Teatching Assistant] (Fall 2018)
