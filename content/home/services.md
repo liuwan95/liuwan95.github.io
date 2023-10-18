@@ -24,9 +24,9 @@ design:
 ---
 
 As a Reviewer:
-- IEEE Transaction of Mobile Computing(TMC);
-- Pervasive and Mobile Computing Journal (PMC);
-- IEEE/CVF CVPR 2023;
+- IEEE Transaction of Mobile Computing(TMC)
+- Pervasive and Mobile Computing Journal (PMC)
+- IEEE/CVF CVPR 2023
 - ACM MultiMedia 2023
 - IEEE ICNC 2024
 
