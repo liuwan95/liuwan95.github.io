@@ -22,4 +22,12 @@ design:
   columns: '2'
 ---
 
-**L. Zhu**, R. Ning, J. Li, C. Xin, and H. Wu, "Most and Least Retrievable Images in Visual-Language Query Systems", in Proceedings of the European Conference on Computer Vision (ECCV), Tel Aviv, October 23-27, 2022. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-19836-6_1)
+EE/ICS660. Computer Architecture (Instructor)  [Spring 2023]
+
+DeapSECURE Workshop Series(Funded by NSF CyberTraining) (Instructor) [2019-2021]
+
+CYSE635. AI Security and Privacy (Guest Lecturer) [Fall 2021]
+
+CYSE301. Cybersecurity Techniques and Operations (Student Mentor) [Spring 2023]
+
+ECE355. Introduction to Networks and Data Communications (Teaching Assistant) [Fall 2018]
