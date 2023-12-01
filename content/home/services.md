@@ -28,6 +28,9 @@ As a Reviewer:
 - Pervasive and Mobile Computing Journal (PMC)
 - IEEE/CVF CVPR 2023
 - ACM MultiMedia 2023
+
+TPC member:
 - IEEE ICNC 2024
+- ACM WiSec 2024
 
 Faculty Mentor: NSF REU sites at School of Cybersecurity, ODU, 2023
