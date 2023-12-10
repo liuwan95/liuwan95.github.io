@@ -25,6 +25,7 @@ design:
 
 As a Reviewer:
 - IEEE Transaction of Mobile Computing(TMC)
+- IEEE Transactions on Information Forensics & Security(T-IFS)
 - Pervasive and Mobile Computing Journal (PMC)
 - IEEE/CVF CVPR 2023
 - ACM MultiMedia 2023
