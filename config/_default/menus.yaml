@@ -12,13 +12,13 @@ main:
     weight: 20
   - name: Grants
     url: '#grants'
-    weight: 25
+    weight: 30
   - name: Teaching
     url: '#teach'
-    weight: 30
+    weight: 40
   - name: Services
     url: '#services'
-    weight: 40
+    weight: 50
   # - name: Experiences
   #   url: '#experience'
   #   weight: 30
