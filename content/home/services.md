@@ -8,7 +8,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 # Section title
 title: Services
@@ -28,10 +28,12 @@ As a Reviewer:
 - IEEE Transactions on Information Forensics & Security(T-IFS)
 - Pervasive and Mobile Computing Journal (PMC)
 - IEEE/CVF CVPR 2023
-- ACM MultiMedia 2023
+- ACM MultiMedia 2023/2024
 
 TPC member:
 - IEEE ICNC 2024
 - ACM WiSec 2024
 
-Faculty Mentor: NSF REU sites at School of Cybersecurity, ODU, 2023
+Faculty Mentor: 
+- UHM Vertically Integrated Projects (VIP)
+- NSF REU sites at School of Cybersecurity, ODU,
