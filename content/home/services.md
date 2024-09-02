@@ -36,4 +36,4 @@ TPC member:
 
 Faculty Mentor: 
 - UHM Vertically Integrated Projects (VIP)
-- NSF REU sites at School of Cybersecurity, ODU,
+- NSF REU sites at School of Cybersecurity, 2023
