@@ -23,6 +23,7 @@ design:
   columns: '2'
 ---
 
-- Haoyang Xu, PhD, UHM
-- Adrian Peng, Master, UHM
-- Gavin Ng, Master, UHM
+- Haoyang Xu, PhD, UHM, 2024~
+- Amanda Torres, Master, UHM, Fall 2025~
+- Christian Iha, Master, UHM, Fall 2025~
+- Luis Hernandez, Master, UHM, Summer 2026~
