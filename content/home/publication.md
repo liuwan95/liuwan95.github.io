@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 # Section title
-title: Recent Publications
+title: Selected Publications
 
 # Section subtitle
 subtitle: 
@@ -27,6 +27,8 @@ H. Ferguson, R. Ning, H. Wu, **L. Zhu**, C. Xin, M. S. Uddin, and J. Li, "Effici
 S. Chen, **L. Zhu**, "When Backdoors Go Beyond Triggers: Semantic Drift in Diffusion Models Under Encoder Attacks", Findings of the Association for Computational Linguistics: ACL 2026.
 
 P. Jiang, **L. Zhu**, R. Ning, H. Wu, and C. Xin, "D-SYNC: Enhancing Vehicle Localization with Dashcam-Satellite Image Synchronization", in IEEE International Conference on Pervasive Computing and Communications (PerCom), 2026. 
+
+W. Li, **L. Zhu**, “RandEye: On-Sensor Stochastic Image Transformation for Backdoor-Resistant Edge Inference”, in Proceedings of the Great Lakes Symposium on VLSI, 2025
 
 **L. Zhu**, R. Ning, J. Li, C. Xin, and H. Wu, "SEER: Backdoor Detection for Vision-Language Models through Searching Target Text and Image Trigger Jointly. AAAI Conference on Artificial Intelligence. 2024.
 
