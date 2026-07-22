@@ -22,6 +22,12 @@ design:
   columns: '2'
 ---
 
+H. Ferguson, R. Ning, H. Wu, **L. Zhu**, C. Xin, M. S. Uddin, and J. Li, "Efficient Backdoor Mitigation in Federated Learning with Contrastive Loss", in IEEE Internet of Things Journal (IoTJ), 2026.
+
+S. Chen, **L. Zhu**, "When Backdoors Go Beyond Triggers: Semantic Drift in Diffusion Models Under Encoder Attacks", Findings of the Association for Computational Linguistics: ACL 2026.
+
+P. Jiang, **L. Zhu**, R. Ning, H. Wu, and C. Xin, "D-SYNC: Enhancing Vehicle Localization with Dashcam-Satellite Image Synchronization", in IEEE International Conference on Pervasive Computing and Communications (PerCom), 2026. 
+
 **L. Zhu**, R. Ning, J. Li, C. Xin, and H. Wu, "SEER: Backdoor Detection for Vision-Language Models through Searching Target Text and Image Trigger Jointly. AAAI Conference on Artificial Intelligence. 2024.
 
 **L. Zhu**, R. Ning, J. Li, C. Xin, and H. Wu, "Most and Least Retrievable Images in Visual-Language Query Systems", in Proceedings of the European Conference on Computer Vision (ECCV), Tel Aviv, October 23-27, 2022. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-19836-6_1)
