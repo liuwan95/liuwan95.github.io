@@ -22,6 +22,7 @@ design:
   view: citation
   columns: '2'
 ---
+- STRATOS: Security and Trust Runtime Architecture for Time-critical Operational Science, DoE Genesis Mission, $750,000, 2026-2027, Role: PI
 - Collaborative Research: FEC: AI-Enabled Environmental Surveillance of Microbial and Chemical Threats to Food Production Systems, NSF, $2M, 2026-2030, Role: Co-PI
 - GRID-AIR: Secure and Trustworthy Artificial Intelligence for Smart Grid Applications, DOE, $2.4M (UH: $718,834), 2026-2028, Role: Co-PI
 - Planning: DCL EPSCOR: SaTC Frontier: Ensuring Security and Privacy in AI-Enabled Cyber-Physical Systems, NSF, $200,000, 2024-2026, Role: Co-PI
