@@ -76,8 +76,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an assistant professor in Electrical & Computer Engineering at the University of Hawaiʻi at Mānoa. I received my Ph.D. in Electrical & Computer Engineering from Old Dominion University, US, in 2023, advised by [Dr. Hongyi Wu](http://www.u.arizona.edu/~mhwu/) and Dr. Chunsheng Xin, and B.S. degree in Computer Science from Hunan University, China, in 2017. 
-My research interests in the intersection of cybersecurity and AI. On the one hand, investigate using machine learning/deep learning to solve security problem in computer system or cyber-physical system; on the other hand, investigate the robustness and safety of the AI systems(such as Computer Vision, Vision-Language Multi-Modal models), including adversarial attack and backdoor attack.
+I am an assistant professor in Electrical & Computer Engineering at the University of Hawaiʻi at Mānoa. I received my Ph.D. in Electrical & Computer Engineering from Old Dominion University, US, in 2023, advised by [Dr. Hongyi Wu](http://www.u.arizona.edu/~mhwu/) and [Dr. Chunsheng Xin](https://www.cs.iastate.edu/people/sam-xin), and B.S. degree in Computer Science from Hunan University, China, in 2017. 
+My research interests in the intersection of cybersecurity and AI. On the one hand, investigate using machine learning/deep learning to solve security problem in computer system or cyber-physical system; on the other hand, investigate the robustness and safety of the AI systems(such as Computer Vision, Vision-Language Multi-Modal models, Smart Grid), including adversarial attack and backdoor attack.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_LiuwanZhu.pdf" "newtab" >}}resumé{{< /staticref >}}.
